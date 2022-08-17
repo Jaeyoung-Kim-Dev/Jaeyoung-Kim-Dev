@@ -1,4 +1,4 @@
-<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"></h1>
+<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30.89px" height="30px"></h1>
 
 <p>As a software engineer, I like to view myself as self-motivated, cooperative, well organized, and a dedicated team player. Solving a challenging problem fuels me. Using both sides of my brain can be challenging but trying to improve my creative and analytical skills.</p>
 
